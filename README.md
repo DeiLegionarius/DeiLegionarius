@@ -1,4 +1,16 @@
 ![AKOTSK](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdqNWRjb29lbmJyYmQyNmt5cHlmbm1yMTBjNzkxN2Yxa2VmYnY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltUQbPlwK2SnulZ0zQ/giphy.gif)
+> *Are there no true knights among you?*
+
+# ⚔️ About Me:
+I am a student developer from Slovenia, mostly interested in the inner workings of video games. <br>
+💗 **I LIKE**: data, backend, logical problems <br>
+💔 **I HATE**: frontend, asset creation, frontend again <br>
+
+# 🏗️ Currently Working On:
+- 🎮 Pygame projects
+- 🚗 FiveM and GTA 5 modifications
+- 🐍 Improving my python skills
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 # 📊 GitHub Stats:
